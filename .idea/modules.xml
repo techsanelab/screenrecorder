@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MohScreenRecorder.iml" filepath="$PROJECT_DIR$/.idea/modules/MohScreenRecorder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MohScreenRecorder.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MohScreenRecorder.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/capturescrn/MohScreenRecorder.capturescrn.iml" filepath="$PROJECT_DIR$/.idea/modules/capturescrn/MohScreenRecorder.capturescrn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fileutiltest/MohScreenRecorder.fileutiltest.iml" filepath="$PROJECT_DIR$/.idea/modules/fileutiltest/MohScreenRecorder.fileutiltest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/notificationssetup/MohScreenRecorder.notificationssetup.iml" filepath="$PROJECT_DIR$/.idea/modules/notificationssetup/MohScreenRecorder.notificationssetup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/uifiletm/MohScreenRecorder.uifiletm.iml" filepath="$PROJECT_DIR$/.idea/modules/uifiletm/MohScreenRecorder.uifiletm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/utilcmnuse/MohScreenRecorder.utilcmnuse.iml" filepath="$PROJECT_DIR$/.idea/modules/utilcmnuse/MohScreenRecorder.utilcmnuse.iml" />
+    </modules>
+  </component>
+</project>

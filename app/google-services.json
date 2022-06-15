@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "963905315206",
+    "project_id": "proweb-9488e",
+    "storage_bucket": "proweb-9488e.appspot.com"
+  },
+  "client": [
+
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963905315206:android:ceec8d78587fafce3a8c07",
+        "android_client_info": {
+          "package_name": "com.techsanelab.screen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963905315206-arm48quvcphlsu7gkggo855g49kkj0pp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqfSSWrvhcBe9WqGQB9pmx4ghS6fd6KBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963905315206-arm48quvcphlsu7gkggo855g49kkj0pp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
